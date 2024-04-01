@@ -9,7 +9,7 @@ struct mahasiswa {
 };
 
 int main() {
-    Mahasiswa mhs;
+    mahasiswa mhs;
     cout << "Nomor Mahasiswa : ";
     cin >> mhs.nim;
     cout << "Nama Mahasiswa : ";
