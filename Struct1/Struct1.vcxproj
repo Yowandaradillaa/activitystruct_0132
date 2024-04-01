@@ -130,6 +130,7 @@
     <ClCompile Include="Struct1.cpp" />
     <ClCompile Include="Struct2.cpp" />
     <ClCompile Include="Struct3.cpp" />
+    <ClCompile Include="Struct4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

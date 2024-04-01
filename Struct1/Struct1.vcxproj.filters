@@ -24,5 +24,8 @@
     <ClCompile Include="Struct3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Struct4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
